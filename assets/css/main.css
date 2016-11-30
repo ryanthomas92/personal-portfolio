@@ -1,1 +1,24 @@
 /* custom styles */
+body {
+  background-image: url("https://i.ytimg.com/vi/lt0WQ8JzLz4/maxresdefault.jpg");
+  color: white;
+}
+
+p {
+  margin-left: 40px;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  font-size: 70px;
+  color: black;
+}
+
+h2 {
+  margin-left: 40px;
+}
+
+a {
+  margin-left: 40px;
+}
