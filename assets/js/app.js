@@ -1,6 +1,9 @@
+$(document).ready(function() {
+
 var name = $('#ryan');
-greeting.on('mouseover', popUpYay);
+$(name).on('mouseover', popUp);
 
 function popUp(event){
-    alert('Good Job on the Site');
-}
+    alert("Good Job on the Site Braj");
+
+};

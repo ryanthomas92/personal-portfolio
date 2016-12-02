@@ -1,3 +1,38 @@
+Project Name
+
+Create My First Profile Page
+
+Installation
+
+Create the HTML, CSS, and JS to create a website that links your professional attributes
+
+Usage
+
+TODO: Write usage instructions
+
+Contributing
+
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
+History
+
+TODO: Write history
+
+Format the site better with CSS.  Add some interactivity with jquery.
+
+TODO: Write credits
+
+License
+
+TODO: Write license
+
+
+
+
+
 # Learn Git Training
 
 1. Create a fork of the [this](https://github.com/sf-wdi-31/personal-portfolio) by clicking "Fork" on the top right.
